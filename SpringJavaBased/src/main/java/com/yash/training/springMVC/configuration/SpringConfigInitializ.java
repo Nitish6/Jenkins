@@ -2,7 +2,7 @@ package com.yash.training.springMVC.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-public class SpringConfigInitializer extends AbstractAnnotationConfigDispatcherServletInitializer{
+public class SpringConfigInitializ extends AbstractAnnotationConfigDispatcherServletInitializer{
 
 	
 	@Override
